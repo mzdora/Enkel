@@ -22,4 +22,5 @@ public class Variable {
     public int getId() {
         return id;
     }
+
 }

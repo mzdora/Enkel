@@ -1,4 +1,6 @@
-var five=5
-print five
-var dupa="dupa"
-print dupa
+People{
+    var luosiwei = "罗驷维"
+    print luosiwei
+    var number = 999
+    print number
+}

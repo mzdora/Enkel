@@ -1,6 +1,6 @@
 package com.mzdora.bytecodegeneration.classscopeinstructions;
 
-import com.mzdora.parsing.EnkelLexer;
+import com.mzdora.parsing.TWL.EnkelLexer;
 import com.mzdora.parsing.domain.Variable;
 import org.objectweb.asm.MethodVisitor;
 import org.objectweb.asm.Opcodes;
